@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="AddDataToBD2/App.axaml" value="AddDataToBD2/AddDataToBD2.csproj" />
+        <entry key="AddDataToBD2/MainWindow.axaml" value="AddDataToBD2/AddDataToBD2.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
